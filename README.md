@@ -1,4 +1,4 @@
-# Interective Polarity Score Plot
+# Interactive Polarity Score Plot
 
 This project is an additional part of paper `Independent fact-checking organizations exhibit a departure from political neutrality` by `Singh et al.`. 
 
