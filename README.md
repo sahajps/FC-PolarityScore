@@ -6,7 +6,7 @@ In the paper `Figure 2` shows extent of neutrality (−1 ≤ P S ≤ 1) for the 
 
 ## Why This Project?
 
-In the paper, the Propensity Score (PS) is shown only for the top 5 entities and is presented year-wise. However, a reader might be more interested in examining the neutrality of fact-checking media during specific events (e.g., the farmers' protest in India). Researchers often face space constraints in papers, limiting the ability to present various permutations and combinations of figures. Therefore, I came up with the idea to create a tool that allows our readers to explore more.
+In the paper, the Polarity Score (PS) is shown only for the top 5 entities and is presented year-wise. However, a reader might be more interested in examining the neutrality of fact-checking media during specific events (e.g., the farmers' protest in India). Researchers often face space constraints in papers, limiting the ability to present various permutations and combinations of figures. Therefore, I came up with the idea to create a tool that allows our readers to explore more.
 
 ## Setup
 1. Clone the repository.
