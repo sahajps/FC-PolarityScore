@@ -25,7 +25,7 @@ In the paper, the Polarity Score (PS) is shown only for the top 5 entities and i
    ```sh
    127.0.0.1:5000/
    
-## Mentainance (For developers)
+## Maintenance (For developers)
 1. `Data/Topic Sentiment Data/*.json` contains the following data:
     ```sh
     date_year: Year of article publication
@@ -40,4 +40,12 @@ Note: Articles (Title and Text) columns are removed in this version of data to m
 ## Cite
 If you find the website or data useful (this or root github for paper), do cite!! This must ring a bell. 🔔
 ```sh
-    Bibtex will be added soon.
+    @misc{singh2024independentfactcheckingorganizationsexhibit,
+      title={Independent fact-checking organizations exhibit a departure from political neutrality}, 
+      author={Sahajpreet Singh and Sarah Masud and Tanmoy Chakraborty},
+      year={2024},
+      eprint={2407.19498},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI},
+      url={https://arxiv.org/abs/2407.19498}, 
+   }
